@@ -21,12 +21,12 @@ Noah Meier, Simon Frey, Benas Sivickas und Kilian Stäuble
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 | muss | Als ein Benutzer möche ich meine mail eingeben können , damit ich an den Workshop Aktivitäten registiert werde.|
-| 2  |                 |      | Als ein Benutzer möchte ich drei Workshops eingebn können, damit das Programm mich in einer dieser Kurse einteilen kann.|
-| 3  |                 |      | Als ein Benutzer möchte ich Prioritäten für die Workshops setzten, damit das Programm best möglich alle Teilnehmer in einen Workshop einteilen kann.|
-| 4  |                 |      | Als ein Benutzer möchte ich, dass das Programm mich möglichst in einen Workshop zuteilt, den ich auch besuchen möchte.|
-| 5  |                 |      | Als ein Benutzer möchte ich, dass das Programm mit Try Catch arbeiten kann, damit er eine Rückmeldung erhält, falls eine falsche eingabe gemacht wurde.|
-| 6  |                 |      | Als Benutzer möchte ich nciht weniger als 4 Personen und nicht mehr als 20 in dem selben Workshop haben.|
+| 1    | muss                | funktional | Als ein Benutzer möche ich meine mail eingeben können , damit ich an den Workshop Aktivitäten registiert werde.|
+| 2  | muss                 |funktional| Als ein Benutzer möchte ich drei Workshops eingebn können, damit das Programm mich in einer dieser Kurse einteilen kann.|
+| 3  | muss            |Qualität| Als ein Benutzer möchte ich Prioritäten für die Workshops setzten, damit das Programm best möglich alle Teilnehmer in einen Workshop einteilen kann.|
+| 4  | muss          |funktional| Als ein Benutzer möchte ich, dass das Programm mich möglichst in einen Workshop zuteilt, den ich auch besuchen möchte.|
+| 5  | muss            |      | Als ein Benutzer möchte ich, dass das Programm mit Try Catch arbeiten kann, damit er eine Rückmeldung erhält, falls eine falsche eingabe gemacht wurde.|
+| 6  |kann                |Qualität| Als Benutzer möchte ich nciht weniger als 4 Personen und nicht mehr als 20 in dem selben Workshop haben.|
 | 7  |                 |      |                                    |
 | 8  |                 |      |                                    |
 | 9  |                 |      |                                    |
