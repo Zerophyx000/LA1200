@@ -3,7 +3,7 @@
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
 Coyote
-Noah
+Noah Meier, Simon Frey, Benas Sivickas und Kilian Stäuble
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
