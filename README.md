@@ -5,9 +5,9 @@ Noah Meier, Simon Frey, Benas Sivickas und Kilian Stäuble
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|27.10.2022| 0.0.1   | Wir haben ein wenig Brainstorming getätigt und die Projektdokumenation nach IPE geschrieben.|
-| 03.10.2022|0.0.2   | Wir haben begonnen mit dem Programmieren des Programmes ausserdem wurde die Projektdokumentation noch angepasst.|
-
+|27.10.2022| 0.1   | Wir haben ein wenig Brainstorming getätigt und die Projektdokumenation nach IPE geschrieben.|
+| 03.11.2022|0.2   | Wir haben begonnen mit dem Programmieren des Programmes ausserdem wurde die Projektdokumentation noch angepasst.|
+|10.11.2022| 0.3| Wir Haben den Code fertig geschrieben und die Projektdokumentation bearbeitet.|
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
