@@ -85,8 +85,15 @@ Wir entschieden uns für eine Fehlererkennung falls ein Workshop falsch geschrie
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 3.11      | Ok        | Benas |
+| 1.2  | 3.11      | Ok         | Benas       |
+| 2.1  | 3.11      | Ok         | Benas       |
+| 2.2  | 10.11      | Ok         | Kilian       |
+| 2.3  | 10.11      | Ok         | Noah       |
+| 3.1  | 17.11      | Ok         | Kilian       |
+| 4.1  | 17.11      | Nicht Ok    |        |
+| 5.1  | 17.11      | Nicht Ok   |        |
+| 6.1  | 17.11      | Nicht Ok |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
